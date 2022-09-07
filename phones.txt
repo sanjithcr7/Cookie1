@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action=set >
+<input type="checkbox" name="mobile1" value="iPhoneX" >iPhone X<br>
+<input type="checkbox" name="mobile2" value="iPhoneXI">iPhone XI<br>
+<input type="checkbox" name="mobile3" value="iPhoneXIII">iPhone XIII<br>
+<input type=submit>
+
+</form>
+
+</body>
+</html>
